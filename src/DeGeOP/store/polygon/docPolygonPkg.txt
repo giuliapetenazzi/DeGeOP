@@ -1,0 +1,5 @@
+
+@author [Giulia Petenazzi]
+@description [2017-03-11]
+@description [2017-03-15]
+@description [racchiude le componenti necessarie alla rappresentazione dell'area degli asset e degli scenari di danno]

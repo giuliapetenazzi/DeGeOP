@@ -1,0 +1,4 @@
+@author [Jordan Gottardo]
+@description [2017-03-11]
+@description [2017-03-15]
+@description [racchiude le componenti necessarie alla rappresentazione del processo produttivo]
